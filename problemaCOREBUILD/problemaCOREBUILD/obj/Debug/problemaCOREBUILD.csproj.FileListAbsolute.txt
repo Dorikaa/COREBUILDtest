@@ -1,0 +1,10 @@
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\bin\Debug\problemaCOREBUILD.exe.config
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\bin\Debug\problemaCOREBUILD.exe
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\bin\Debug\problemaCOREBUILD.pdb
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\obj\Debug\problemaCOREBUILD.csprojAssemblyReference.cache
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\obj\Debug\problemaCOREBUILD.csproj.CoreCompileInputs.cache
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\obj\Debug\problemaCOREBUILD.exe
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\obj\Debug\problemaCOREBUILD.pdb
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Horatiu\source\repos\problemaCOREBUILD\problemaCOREBUILD\obj\Debug\problemaCOREBUILD.csproj.CopyComplete
